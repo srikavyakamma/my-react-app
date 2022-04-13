@@ -1,0 +1,16 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "my-react-app"
+  title: React Demo App
+  description: "React Demo App"
+  tags:
+    - react
+  annotations:
+    github.com/project-slug: sranda44/my-react-app
+#     backstage.io/techdocs-ref: dir:.
+spec:
+  type: application
+  lifecycle: production
+  owner: "web-development-team"
+  system: websystem
