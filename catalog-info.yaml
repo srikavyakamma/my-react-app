@@ -10,7 +10,7 @@ metadata:
     github.com/project-slug: sranda44/my-react-app
 #     backstage.io/techdocs-ref: dir:.
 spec:
-  type: application
+  type: service
   lifecycle: production
   owner: "web-development-team"
   system: websystem
