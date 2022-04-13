@@ -8,6 +8,7 @@ metadata:
     - react
   annotations:
     github.com/project-slug: sranda44/my-react-app
+    jenkins.io/job-full-name: my-react-app
 #     backstage.io/techdocs-ref: dir:.
 spec:
   type: service
