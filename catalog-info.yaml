@@ -7,8 +7,8 @@ metadata:
   tags:
     - react
   annotations:
-    github.com/project-slug: sranda44/my-react-app
-    jenkins.io/job-full-name: my-org/my-react-app
+    github.com/project-slug: srikavyakamma/my-react-app
+    jenkins.io/job-full-name: my-org-fldr/my-react-app
 #     backstage.io/techdocs-ref: dir:.
 spec:
   type: service
